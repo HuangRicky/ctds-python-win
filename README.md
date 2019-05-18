@@ -7,3 +7,7 @@ Supported TDS version is <=7.3
 
 ctds https://github.com/zillow/ctds
 I used ctds 1.7.0, compiled under Windows 64bit.
+
+
+See Release page:
+https://github.com/HuangRicky/ctds-python-win/releases
