@@ -1,5 +1,7 @@
 # ctds-python-win
-Windows Binary of ctds Python package
+Windows Binary of ctds Python package.
+
+**Make sure you agree to all terms and conditions and honor licenses of original libraries!**
 
 FreeTDS library: https://www.freetds.org/
 
@@ -18,5 +20,9 @@ I use ctds 1.10.0, compiled under Win 64 bit using VS 2019.
 
 See Release page:
 https://github.com/HuangRicky/ctds-python-win/releases
+
+# Question: What does this package do
+
+The most important usage is the .bcp method. Usually, pyodbc or other similar package can provide reading access with great performance (btw, turbodbc gives the best reading performance in my test cases). However those package does not support bulk insert. Ctds is the only package can support in memory bcp according to my research. Under Windows, it is not trivial to compile ctds because you need to get different pieces ready, perhaps set up PATH. I have sorted it out and compile the ctds package for you but **make sure you agree to all terms and conditions and honor licenses of original libraries!**
 
 If you like this binary, please star my repo, thank you!
