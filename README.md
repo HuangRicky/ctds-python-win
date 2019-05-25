@@ -6,6 +6,8 @@ FreeTDS library: https://www.freetds.org/
 ~~I used FreeTDS 0.95 Windows Binary from https://github.com/ramiro/freetds/releases~~
 I use FreeTDS 1.1 from AppVeyor builds (VS2015 64 bit), with OpenSSL support 1.0.2r dll (if you have preferred version you can replace those 2 openssl dlls)
 
+https://www.openssl.org/
+
 Supported TDS version is <=7.3 (maybe it's ok with 7.4, have not tested)
 
 ctds https://github.com/zillow/ctds
