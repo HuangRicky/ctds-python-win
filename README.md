@@ -18,8 +18,14 @@ ctds https://github.com/zillow/ctds
 I use ctds 1.10.0, compiled under Win 64 bit using VS 2019.
 
 
+Update 20201120:
+
+FreeTDS 1.2+ from AppVeyor builds (VS2017 64b), OpenSSL 1.1.1h. ctds version 1.13.
+
 See Release page:
 https://github.com/HuangRicky/ctds-python-win/releases
+
+
 
 # Question: What does this package do
 
