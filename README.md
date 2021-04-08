@@ -22,6 +22,10 @@ Update 20201120:
 
 FreeTDS 1.2+ from AppVeyor builds (VS2017 64b), OpenSSL 1.1.1h. ctds version 1.13.
 
+Update 20210408:
+
+FreeTDS 1.2.18 from AppVeyor builds (VS2017 64b), OpenSSL 1.1.1k. ctds version 1.14.
+
 See Release page:
 https://github.com/HuangRicky/ctds-python-win/releases
 
